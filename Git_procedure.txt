@@ -5,3 +5,18 @@ git fetch/pull -> first update your local repo/branches with changes
 mkdir filename -> create new folder
 
 ls -> all the files in the folder
+
+git checkout -b <name>  -> create branch/switch to the branch
+
+merge branch files with master:
+git checkout master
+git pull origin master
+git merge <branch name>
+git push origin master
+
+adding new file
+
+- git add <filename>
+- git commit -m "Enter information about the commit" 
+- git push -u origin branch_name (first time only, after that you only need to type git push)
+	
