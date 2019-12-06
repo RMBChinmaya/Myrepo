@@ -1,0 +1,7 @@
+steps
+
+git fetch/pull -> first update your local repo/branches with changes
+
+mkdir filename -> create new folder
+
+ls -> all the files in the folder
